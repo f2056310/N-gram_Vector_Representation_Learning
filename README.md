@@ -1,7 +1,9 @@
 # Learning Word Ngram Representations Based on Relationships Between Ngrams of Different Lengths
 
 This repository contains the implementations of our paper,
-the C++ source for training ngram vectors and the python script for data augmentation using the ngram vectors.
+- the C++ source for training ngram vectors and
+- the python script for data augmentation using the ngram vectors.
+
 These implementations can reproduce the main result.
 
 You shall obey the license.
